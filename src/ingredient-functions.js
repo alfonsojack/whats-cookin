@@ -1,4 +1,3 @@
-const { ingredientsData } = require("./data/ingredients-test-data")
 
 // Determine the names of ingredients needed for a given recipe.
 

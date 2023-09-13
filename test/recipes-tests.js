@@ -1,7 +1,6 @@
 const chai = require('chai');
 const expect = chai.expect;
 import {findRecipe} from '../src/recipe-functions'
-import ingredientsData from '../src/data/ingredients-test-data.js';
 import recipeData from '../src/data/recipe-test-data.js';
 
 
